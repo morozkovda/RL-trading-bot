@@ -18,7 +18,8 @@ There have been several improvements to the Q-learning algorithm over the years,
 - [x] Vanilla DQN
 - [x] DQN with fixed target distribution
 - [x] Double DQN
-- 
+
+      
 ## Results
 
 Trained on `GOOG` 2010-17 stock data, tested on 2019 with a profit of $1141.45 (validated on 2018 with profit of $863.41):
