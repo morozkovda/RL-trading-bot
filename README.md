@@ -24,7 +24,7 @@ There have been several improvements to the Q-learning algorithm over the years,
 
 Trained on `GOOG` 2010-17 stock data, tested on 2019 with a profit of $1141.45 (validated on 2018 with profit of $863.41):
 
-![Google Stock Trading episode](../../Desktop/projects/trading-bot-master/extra/visualization.png)
+![Google Stock Trading episode](/extra/visualization.png)
 
 You can obtain similar visualizations of your model evaluations using the [notebook](visualize.ipynb) provided.
 
